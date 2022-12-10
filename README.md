@@ -23,8 +23,12 @@ I have a real **passion for diversity**. I want to make the world of tech look a
 - _RailsGirls London_: Presented [Nested as a sponsor](https://twitter.com/eloisanoble/status/1068821716124737537) and [**volunteered as a coach**](https://twitter.com/AfuaDanquah1/status/1193578469994704897)
 - [_Living & Working With Depression_](https://medium.com/what-i-did-on-my-working-holiday/living-and-working-with-depression-eee1f9e18a8d): A popular blog I wrote about depression in the workplace. A lot of people contacted me saying that it had given them really useful tips for supporting direct reports or helped them to open up a dialogue with their own manager. Some people said it made them cry -- you've been warned!
 
-## You got any awards 💅
+## You got any awards? 💅
 
 Only one that's relevant to GitHub (but let me know if you're interested in examples of excellent community co-production). I told you I'm into diversity!
 
 - **Code First Girls: Ones to Watch 2022** [_Tech Ally_](https://www.youtube.com/watch?v=p3y4FXlUqHo&t=26734s)
+
+## What about pets? 🐭
+
+I have two gerbils, _The White One_ (brown coat) and _The Brown One_ (albino). They like nibbling toilet rolls, digging and choosing a different place to pee each week.

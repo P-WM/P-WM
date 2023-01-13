@@ -77,7 +77,7 @@ I have a real **passion for diversity**. I want to make the world of tech look a
 - _Career Accelerator (Raise opportunity and aspirations for 13-17 year olds interested and underrepresented in tech)_ -- **Ran workshops** for and **mentored participants**
 - _Founders and Coders (London-based bootcamp, free for students)_ -- Worked with a team of colleagues to **deliver quarterly two-day workshops** introducing `Elixir` and `GraphQL`. Met lots of new people from outside our traditional recruitment funnel and (at last) hired a woman
 - _RailsGirls London_ -- Presented [Nested as a sponsor](https://twitter.com/eloisanoble/status/1068821716124737537) and [**volunteered as a coach**](https://twitter.com/AfuaDanquah1/status/1193578469994704897)
-- [_Living & Working With Depression_](https://medium.com/what-i-did-on-my-working-holiday/living-and-working-with-depression-eee1f9e18a8d) -- A popular blog I wrote about depression in the workplace. A lot of people contacted me saying that it had given them really useful tips for supporting direct reports or helped them to open up a dialogue with their own manager. Some people said it made them cry -- you've been warned!
+- [_Living & Working With Depression_](https://p-wm.dev/mental-health) -- A popular blog I wrote about depression in the workplace. A lot of people contacted me saying that it had given them really useful tips for supporting direct reports or helped them to open up a dialogue with their own manager. Some people said it made them cry -- you've been warned!
 
 ## Other Professional Experience
 

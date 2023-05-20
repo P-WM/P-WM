@@ -4,9 +4,14 @@
 
 ## Would you like a job? 👩‍💻
 
-No, thank you! I'm currently super happy building 1 million friendships at [Flash Pack](https://www.flashpack.com). Feel free to drop a message if that's your bag too.
+Ooooh, _maybe_... I've spent the last year or so doing short projects with early stage tech teams getting from 0.5 to 1 (the really sticky bit 😬). Gnarly questions I like dealing with are:
+- We've got a cool MVP but how do we make it, like, ready for _actual_, _human_ customer people?
+- This ragtag bunch of blokes were super productive but now we have moneyz; how do make a proper team of people that consistently delivers?
+- Did those shoes come as a pair or did you mix them yourself?
 
-If you absolutely cannot contain your self and simply _must_ contact me then you can you can check my [out of date CV](CV.md) and reach me at [jobs@p-wm.dev](mailto:jobs@p-wm.dev).
+I'm currently helping out at [SELECT.dev](https://select.dev) where they're scaling their super-cool Snowflake cost-optimization product—check it out if you're paying Snowflake loads!
+
+Feel free to check my [out of date CV](CV.md) and reach me at [jobs@p-wm.dev](mailto:jobs@p-wm.dev).
 
 ## What's your bag? 🛍️
 
